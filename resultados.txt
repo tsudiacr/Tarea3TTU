@@ -1,0 +1,4 @@
+{'nombre': 'Alyssa', 'edad': 32}
+{'nombre': 'Diana', 'edad': 33}
+{'nombre': 'Melvin', 'edad': 30}
+{'nombre': 'Sofia', 'edad': 34}
